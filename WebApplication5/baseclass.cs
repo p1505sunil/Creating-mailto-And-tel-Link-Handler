@@ -13,7 +13,7 @@
     /// <summary>  
     /// Loads link input into relevant fields.  
     /// </summary>  
-    public virtual void ReadLink(string link)
+    public virtual void ReadLink(string link) 
     {
         if (link == null)
             throw new ArgumentNullException("link");
