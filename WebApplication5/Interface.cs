@@ -10,7 +10,7 @@
     protected static readonly char[] RecipientDelimiters = new char[] { ',', ';' };
     protected static readonly char[] ParamDelimiters = new char[] { '&' };
     protected static readonly char[] ParamValueDelimiters = new char[] { '=' };
-    #endregion
+    #endregion  
 
     #region Field Names  
     protected static readonly string ToField = "to";
